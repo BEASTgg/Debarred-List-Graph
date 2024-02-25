@@ -31,5 +31,3 @@ maxNameLen += 10
 setTimeout(() => {
     BarGraphRepresentation(debarredFromTerm)
 }, 1000)
-
-console.log(debarredFromTerm)
