@@ -16,4 +16,4 @@ In your local development environment, clone the repo and at the root directory 
 
 The bar graph will look like -
 
-[image](https://github.com/BEASTgg/Debarred-List-Graph/blob/main/images/IOT.png)
+<img src = "https://github.com/BEASTgg/Debarred-List-Graph/blob/main/images/IOT.png">
