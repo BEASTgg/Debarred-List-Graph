@@ -16,4 +16,4 @@ In your local development environment, clone the repo and at the root directory 
 
 The bar graph will look like -
 
-![Local Image](./images/bar-graph.png)
+🖕
