@@ -1,4 +1,4 @@
-# Sem-Debarred-List-Processor
+# Sem-Debarred-List
 
 Some File handling and basic data representations performed on the list of the students debarred from 5th sem exam. 
 
